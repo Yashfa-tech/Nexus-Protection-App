@@ -392,7 +392,8 @@
       const svgColor = c.svgColor || lighterColorFn(textColor, 0.3);
       s.textContent = `
     .T1_shipping-protection {
-      background: ${c.useGradient ? `linear-gradient(135deg, ${c.gradientStart}, ${c.gradientEnd})` : c.backgroundColor};
+    background-color: red;
+      // background: ${c.useGradient ? `linear-gradient(135deg, ${c.gradientStart}, ${c.gradientEnd})` : c.backgroundColor};
       border-radius: 20px;
       padding: 24px;
       display: flex;
