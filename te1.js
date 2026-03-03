@@ -177,7 +177,7 @@
       },
       colors: {
         useGradient: false,
-        backgroundColor: "#F5F5F5",
+        backgroundColor: "#ff0000",
         textColor: "#000000",
         svgColor: "#000000",
         toggleEnabled: "#1773B0",
