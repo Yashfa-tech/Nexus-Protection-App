@@ -393,8 +393,8 @@
       s.textContent = `
     .T1_shipping-protection {
       background: ${c.useGradient ? `linear-gradient(135deg, ${c.gradientStart}, ${c.gradientEnd})` : c.backgroundColor};
-      border-radius: 8px;
-      padding: 12px;
+      border-radius: 20px;
+      padding: 24px;
       display: flex;
       align-items: center;
       gap: 12px;
